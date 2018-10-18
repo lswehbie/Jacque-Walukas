@@ -66,4 +66,12 @@ h1.loader {
 
 h2 {
   text-align: center;
+  text-transform: uppercase;
+  font-family: 'Nunito', sans-serif;
+  color: transparent;
+  letter-spacing: 0.01em;
+  text-shadow:
+    0 0 2px rgba(204, 208, 212,0.9);
+    
 }
+
