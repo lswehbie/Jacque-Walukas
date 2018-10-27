@@ -64,19 +64,15 @@ h1.loader {
   animation-delay:0.90s;
 }
 
+
 h2 {
   text-align: center;
-  text-transform: uppercase;
-  font-family: 'Nunito', sans-serif;
-
-  
-    
 }
 
 a{
   text-align: center;
   text-transform: uppercase;
   font-family: 'Nunito', sans-serif;
-color:white;
+  color:white;
 }
 
