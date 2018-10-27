@@ -67,6 +67,11 @@ h1.loader {
 
 h2 {
   text-align: center;
+
+  text-transform: uppercase;
+  font-family: 'Nunito', sans-serif;
+ 
+ 
 }
 
 a{
