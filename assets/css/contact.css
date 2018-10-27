@@ -1,7 +1,11 @@
 
+.contactstuff {
+  float: center;
+}
 
-
-
+body{
+  text-align: center;
+}
 h1{
   text-align: center;
   text-transform: uppercase;
@@ -30,11 +34,13 @@ p {
   text-transform: uppercase;
   font-family: 'Nunito', sans-serif;
   color: black;
+  font-weight: 300;
 }
 
 
 a{
   text-align: center;
+  float:center;
 }
 
 
@@ -112,7 +118,8 @@ hr {
   margin: 0;
   background: tomato;
   border: none;
-  transition: .3s ease-in-out;
+  text-align: center;
+  margin: 0;
 }
 
 
