@@ -1,3 +1,17 @@
+.footer {
+   
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: white;
+   color: black;
+   text-align: center;
+}
+
+
+
+
+
 #page {
   
 
@@ -70,6 +84,7 @@ h2 {
 
 a{
   text-align: center;
+  float: center;
 }
 
 
@@ -110,6 +125,7 @@ body {
 .container {
   width: 50%;
   margin: 0 auto;
+  font-size: 10pt;
 
 }
 
